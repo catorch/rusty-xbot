@@ -29,5 +29,4 @@
 *.so
 *.dylib
 
-# Node-related (if you're integrating with JS)
-node_modules/
+.env
